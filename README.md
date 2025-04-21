@@ -6,7 +6,7 @@ This repo contains all the practice codes, examples, and concepts I’ve explore
 ---
 
 ## 📂 Folder Structure
-
+JS Basics/ │ ├── Arrays/ ├── Functions/ ├── Objects/ ├── DOM Manipulation/ ├── Events/ ├── ES6+ Concepts/ └── Practice Problems/
 
 ---
 
@@ -32,19 +32,17 @@ This repo contains all the practice codes, examples, and concepts I’ve explore
    ```bash
    git clone https://github.com/tanyaaa05/Javascript-Learning.git
 2. Open any folder in your code editor like VS Code.
-
 3. Practice and play around with the code! ✨
 
 🌈 Contribution
 This is a personal learning journey 💻
 If you'd like to collaborate or suggest improvements, feel free to fork or raise an issue! 🙌
 
-📅 Timeline
-Started: April 2025 📆
-
+📅 Timeline </br>
+Started: April 2025 📆 </br>
 Status: 🟢 Ongoing
 
-🔗 Connect with Me
+🔗 Connect with Me </br>
 GitHub: @tanyaaa05
 
 LinkedIn: https://www.linkedin.com/in/tanya06395/
